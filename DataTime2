@@ -1,0 +1,9 @@
+Time run function: 2020-10-26 23:05:00.127935
+Name of function: some_function
+RETURN of function: 80
+*args: (10, 8)
+Path: C:\Users\denaz\PycharmProjects\decor\Decorator\debug.pyTime run function: 2020-10-26 23:05:00.143556
+Name of function: some_function_for_test
+RETURN of function: None
+*args: (10, 90)
+Path: C:\Users\denaz\PycharmProjects\decor\Decorator\DecoratorWithParams.py
